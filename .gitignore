@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+# answer() embedding cache
+.answer_cache/
+
+# Data (downloaded by setup.py, ~1GB) and derived caches
+data/enwiki/
+*.emb.json
+*.needles.json

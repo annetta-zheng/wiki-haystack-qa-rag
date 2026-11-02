@@ -1,0 +1,1322 @@
+{
+  "total_questions": 130,
+  "correct_answers": 126,
+  "accuracy": 96.92307692307692,
+  "execution_time": 162.12134623527527,
+  "results_by_difficulty": {
+    "easy": {
+      "correct": 79,
+      "total": 79
+    },
+    "medium": {
+      "correct": 15,
+      "total": 17
+    },
+    "hard": {
+      "correct": 32,
+      "total": 34
+    }
+  },
+  "detailed_results": [
+    {
+      "question": "Who first documented the Aethermist Valley in 1892?",
+      "expected": "Captain Magnus Eriksson",
+      "actual": "Captain Magnus Eriksson",
+      "difficulty": "easy",
+      "time": 8.470829010009766,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected fact exactly."
+    },
+    {
+      "question": "In what year was the Academy of Forgotten Languages founded?",
+      "expected": "1934",
+      "actual": "1934",
+      "difficulty": "easy",
+      "time": 8.635327100753784,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Academy of Forgotten Languages?",
+      "expected": "Professor Verbatius Ancientword",
+      "actual": "Professor Verbatius Ancientword",
+      "difficulty": "easy",
+      "time": 8.941218852996826,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What percentage of normal gravity strength does the Aethermist Valley experience?",
+      "expected": "60%",
+      "actual": "60%",
+      "difficulty": "easy",
+      "time": 9.573541164398193,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected percentage."
+    },
+    {
+      "question": "What do the Norathi people call the Aethermist Valley?",
+      "expected": "Skyfather's Breath",
+      "actual": "Skyfather's Breath",
+      "difficulty": "easy",
+      "time": 9.592447996139526,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Atmospheric Fishing League founded?",
+      "expected": "2005",
+      "actual": "2005",
+      "difficulty": "easy",
+      "time": 3.4807260036468506,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Atmospheric Fishing League?",
+      "expected": "Nimbus Cloudcatcher",
+      "actual": "Nimbus Cloudcatcher",
+      "difficulty": "easy",
+      "time": 3.326725959777832,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the motto of the Atmospheric Fishing League?",
+      "expected": "Catching Clouds, Chasing Dreams",
+      "actual": "Catching Clouds, Chasing Dreams",
+      "difficulty": "easy",
+      "time": 3.553551197052002,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected motto."
+    },
+    {
+      "question": "In what year was the Competitive Cloud Shaping League established?",
+      "expected": "2007",
+      "actual": "2007",
+      "difficulty": "easy",
+      "time": 3.507812976837158,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Competitive Cloud Shaping League?",
+      "expected": "Dr. Nimbus Sculptor",
+      "actual": "Dr. Nimbus Sculptor",
+      "difficulty": "easy",
+      "time": 3.765302896499634,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who is the current world champion of competitive cloud shaping?",
+      "expected": "Cumulus Magnificent",
+      "actual": "Cumulus Magnificent",
+      "difficulty": "easy",
+      "time": 3.4921321868896484,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the scientific name of the Prismatic Wing Butterfly?",
+      "expected": "Lepidoptera crystallinus",
+      "actual": "Lepidoptera crystallinus",
+      "difficulty": "easy",
+      "time": 3.708876848220825,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "Who first documented the Crystalline Butterfly Migration in 1934?",
+      "expected": "Dr. Spectrum Wingfield",
+      "actual": "Dr. Spectrum Wingfield",
+      "difficulty": "easy",
+      "time": 3.342891216278076,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year did the Crystalline Culture Movement begin?",
+      "expected": "1923",
+      "actual": "1923",
+      "difficulty": "easy",
+      "time": 3.4648489952087402,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "How long is the migration journey of the Prismatic Wing Butterflies?",
+      "expected": "2,000 kilometers",
+      "actual": "2,000-kilometer",
+      "difficulty": "easy",
+      "time": 3.7479679584503174,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '2,000-kilometer' matches '2,000 kilometers'."
+    },
+    {
+      "question": "How many members lived in the Commune of Amethyst Awakening?",
+      "expected": "347",
+      "actual": "347",
+      "difficulty": "easy",
+      "time": 3.2000060081481934,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "What is the exterior of the Culinary Time Travel Academy covered in?",
+      "expected": "Magnetophoric Moss",
+      "actual": "Magnetophoric Moss",
+      "difficulty": "easy",
+      "time": 3.465376853942871,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected fact."
+    },
+    {
+      "question": "Who founded the Culinary Time Travel Academy?",
+      "expected": "Professor Temporal Delicious",
+      "actual": "Professor Temporal Delicious",
+      "difficulty": "easy",
+      "time": 3.2544808387756348,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who founded the Crystalline Culture Movement?",
+      "expected": "Viktor Prismaticus",
+      "actual": "Viktor Prismaticus",
+      "difficulty": "easy",
+      "time": 4.664776086807251,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Culinary Time Travel Academy founded?",
+      "expected": "2013",
+      "actual": "2013",
+      "difficulty": "easy",
+      "time": 3.475722074508667,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What is the total number of islands in the Crysthaven archipelago?",
+      "expected": "47",
+      "actual": "47",
+      "difficulty": "easy",
+      "time": 3.198791980743408,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "What is the dominant mineral found in the Crysthaven Islands?",
+      "expected": "Seraphite",
+      "actual": "Seraphite",
+      "difficulty": "easy",
+      "time": 3.365186929702759,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected mineral."
+    },
+    {
+      "question": "In what year was Dr. Amelia Thornwick born?",
+      "expected": "1887",
+      "actual": "1887",
+      "difficulty": "easy",
+      "time": 3.287278175354004,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What is Dr. Amelia Thornwick's most famous invention?",
+      "expected": "Molecular Resonance Scanner",
+      "actual": "Molecular Resonance Scanner",
+      "difficulty": "easy",
+      "time": 4.133190870285034,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected invention."
+    },
+    {
+      "question": "What is the capital city of the Crysthaven Islands?",
+      "expected": "Prismheart",
+      "actual": "Prismheart",
+      "difficulty": "easy",
+      "time": 4.1850433349609375,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected city."
+    },
+    {
+      "question": "What phenomenon did Dr. Thornwick call the 'Thornwick Effect'?",
+      "expected": "Biological quantum entanglement",
+      "actual": "biological quantum entanglement between mitochondria in different cells of the same organism",
+      "difficulty": "easy",
+      "time": 3.8369979858398438,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer contains the core fact 'biological quantum entanglement'."
+    },
+    {
+      "question": "What is Dr. Yuki Sasamoto's field of expertise?",
+      "expected": "Deep Ocean Acoustic Ecology",
+      "actual": "Deep Ocean Acoustic Ecology",
+      "difficulty": "easy",
+      "time": 3.8559248447418213,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected field."
+    },
+    {
+      "question": "In what year was Dr. Yuki Sasamoto born?",
+      "expected": "1976",
+      "actual": "1976",
+      "difficulty": "easy",
+      "time": 3.396962881088257,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Where does the Emotional Weather Broadcasting Service provide forecasts?",
+      "expected": "Crysthaven Islands",
+      "actual": "Crysthaven Islands",
+      "difficulty": "easy",
+      "time": 3.6002368927001953,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "Who serves as the Chief Emotional Meteorologist?",
+      "expected": "Dr. Empathia Feelwright",
+      "actual": "Dr. Empathia Feelwright",
+      "difficulty": "easy",
+      "time": 2.660720109939575,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Emotional Weather Broadcasting Service founded?",
+      "expected": "2017",
+      "actual": "2017",
+      "difficulty": "easy",
+      "time": 3.498631238937378,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Emotional Weather Broadcasting Service?",
+      "expected": "Dr. Yuki Sasamoto",
+      "actual": "Dr. Yuki Sasamoto",
+      "difficulty": "easy",
+      "time": 7.00507378578186,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who founded the Festival of Floating Lanterns tradition in 1423?",
+      "expected": "Kenji Lightbringer",
+      "actual": "Kenji Lightbringer",
+      "difficulty": "easy",
+      "time": 2.864804744720459,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Where does the Festival of Floating Lanterns take place?",
+      "expected": "Levitating Library of Loftington",
+      "actual": "Levitating Library of Loftington",
+      "difficulty": "easy",
+      "time": 3.2564609050750732,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "What is the scientific name of the Gravitational Orchid?",
+      "expected": "Orchidaceae gravitensis",
+      "actual": "Orchidaceae gravitensis",
+      "difficulty": "easy",
+      "time": 3.2412078380584717,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "Who discovered the Gravitational Orchid in 2020?",
+      "expected": "Dr. Levitas Bloomwright",
+      "actual": "Dr. Levitas Bloomwright",
+      "difficulty": "easy",
+      "time": 2.834584951400757,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who sponsors the Festival of Floating Lanterns?",
+      "expected": "Memory Metal Mining Consortium",
+      "actual": "Memory Metal Mining Consortium",
+      "difficulty": "easy",
+      "time": 4.905894994735718,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected sponsor."
+    },
+    {
+      "question": "What championship uses the Gravitational Orchid as its official symbol?",
+      "expected": "Gravity Surfing Championship",
+      "actual": "Gravity Surfing Championship",
+      "difficulty": "easy",
+      "time": 3.3396689891815186,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected championship."
+    },
+    {
+      "question": "In what year was the Gravity Surfing Championship first held?",
+      "expected": "2010",
+      "actual": "2010",
+      "difficulty": "easy",
+      "time": 3.2919211387634277,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who pioneered the sport of gravity surfing?",
+      "expected": "Cosmos Wavewright",
+      "actual": "Cosmos Wavewright",
+      "difficulty": "easy",
+      "time": 2.9033658504486084,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who is the current world champion of gravity surfing?",
+      "expected": "Luna Gravitax",
+      "actual": "Luna Gravitax",
+      "difficulty": "easy",
+      "time": 3.2257769107818604,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year did the Great Library Merger of Alexandria occur?",
+      "expected": "267 CE",
+      "actual": "267 CE",
+      "difficulty": "easy",
+      "time": 3.2157299518585205,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who orchestrated the Great Library Merger of Alexandria?",
+      "expected": "Ptolemy Bibliothicus",
+      "actual": "Ptolemy Bibliothicus",
+      "difficulty": "easy",
+      "time": 2.9647459983825684,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Great Library Merger of Alexandria?",
+      "expected": "267 CE",
+      "actual": "267 CE",
+      "difficulty": "easy",
+      "time": 3.6249520778656006,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What does HMM stand for in the context of data storage?",
+      "expected": "Holographic Memory Matrix",
+      "actual": "Holographic Memory Matrix",
+      "difficulty": "easy",
+      "time": 2.923759937286377,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected expansion."
+    },
+    {
+      "question": "Who developed the Holographic Memory Matrix technology?",
+      "expected": "Dr. Isabella Reeves",
+      "actual": "Dr. Isabella Reeves",
+      "difficulty": "easy",
+      "time": 3.0231947898864746,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What company provides Memory Metal for HMM systems?",
+      "expected": "Memory Metal Mining Consortium",
+      "actual": "Memory Metal Mining Consortium",
+      "difficulty": "easy",
+      "time": 3.218238353729248,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected company."
+    },
+    {
+      "question": "How many libraries participated in the Great Library Merger?",
+      "expected": "Seven",
+      "actual": "seven",
+      "difficulty": "easy",
+      "time": 4.354871988296509,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Numeric words vs digits are allowed; 'seven' matches 'Seven'."
+    },
+    {
+      "question": "In what year was the Institute for Impossible Architecture founded?",
+      "expected": "2008",
+      "actual": "2008",
+      "difficulty": "easy",
+      "time": 2.9214022159576416,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Institute for Impossible Architecture?",
+      "expected": "Dr. Dimensional Impossiblius",
+      "actual": "Dr. Dimensional Impossiblius",
+      "difficulty": "easy",
+      "time": 3.956930160522461,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "How many parallel dimensions does the tournament take place across?",
+      "expected": "17",
+      "actual": "17",
+      "difficulty": "easy",
+      "time": 3.148569107055664,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "Who is the current Interdimensional Chess Champion?",
+      "expected": "Quantum Knightsworth",
+      "actual": "grandmaster Quantum Knightsworth",
+      "difficulty": "easy",
+      "time": 3.1741650104522705,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Missing title is allowed; 'grandmaster Quantum Knightsworth' matches 'Quantum Knightsworth'."
+    },
+    {
+      "question": "In what year was the Interdimensional Chess Tournament first held?",
+      "expected": "2003",
+      "actual": "2003",
+      "difficulty": "easy",
+      "time": 3.4553139209747314,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What organization is located next door to the Institute for Impossible Architecture?",
+      "expected": "Invisible Art Exhibition Society",
+      "actual": "Invisible Art Exhibition Society",
+      "difficulty": "easy",
+      "time": 4.518091917037964,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected organization."
+    },
+    {
+      "question": "In what year was the Invisible Art Exhibition Society founded?",
+      "expected": "2019",
+      "actual": "2019",
+      "difficulty": "easy",
+      "time": 2.6787259578704834,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the International Shadow Dance Championship?",
+      "expected": "Luna Shadowweaver",
+      "actual": "Luna Shadowweaver",
+      "difficulty": "easy",
+      "time": 3.1601829528808594,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who is the current world champion of shadow dancing?",
+      "expected": "Darkness Graceful",
+      "actual": "Darkness Graceful",
+      "difficulty": "easy",
+      "time": 3.147963285446167,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who founded the Invisible Art Exhibition Society?",
+      "expected": "Dr. Spectrum Unseeable",
+      "actual": "Dr. Spectrum Unseeable",
+      "difficulty": "easy",
+      "time": 3.0399999618530273,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the motto of the Invisible Art Exhibition Society?",
+      "expected": "Seeing Beyond the Visible",
+      "actual": "Seeing Beyond the Visible",
+      "difficulty": "easy",
+      "time": 2.7317111492156982,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected motto."
+    },
+    {
+      "question": "In what year was the Levitating Library of Loftington established?",
+      "expected": "1823",
+      "actual": "1823",
+      "difficulty": "easy",
+      "time": 2.7994539737701416,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who established the Levitating Library of Loftington?",
+      "expected": "Sir Flotilus Bookwright",
+      "actual": "Sir Flotilus Bookwright",
+      "difficulty": "easy",
+      "time": 3.4895479679107666,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "How many floating volumes does the library contain?",
+      "expected": "50,000+",
+      "actual": "50,000+ floating volumes",
+      "difficulty": "easy",
+      "time": 3.3179771900177,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Minor formatting is allowed; '50,000+ floating volumes' matches '50,000+'."
+    },
+    {
+      "question": "What is the scientific name of the Luminous Tree Frog?",
+      "expected": "Hyla bioluminescens",
+      "actual": "Hyla bioluminescens",
+      "difficulty": "easy",
+      "time": 3.1604771614074707,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "Where is the Luminous Tree Frog endemic to?",
+      "expected": "Aethermist Valley",
+      "actual": "Aethermist Valley",
+      "difficulty": "medium",
+      "time": 3.3498640060424805,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "In what year did the Lunar Cartography Expedition take place?",
+      "expected": "1689",
+      "actual": "1689",
+      "difficulty": "easy",
+      "time": 3.8311078548431396,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who discovered the Luminous Tree Frog?",
+      "expected": "Dr. Marina Radiantis",
+      "actual": "Dr. Marina Radiantis",
+      "difficulty": "easy",
+      "time": 4.237270832061768,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who led the Lunar Cartography Expedition?",
+      "expected": "Sir Bartholomew Moonwright",
+      "actual": "Sir Bartholomew Moonwright",
+      "difficulty": "easy",
+      "time": 3.714656114578247,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the scientific name of Magnetophoric Moss?",
+      "expected": "Bryum magneticus",
+      "actual": "Bryum magneticus",
+      "difficulty": "easy",
+      "time": 3.284337282180786,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "Where was Magnetophoric Moss discovered?",
+      "expected": "Crysthaven Islands",
+      "actual": "Crysthaven Islands",
+      "difficulty": "easy",
+      "time": 3.42529296875,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "Who discovered Magnetophoric Moss in 2021?",
+      "expected": "Dr. Compass Fieldwright",
+      "actual": "Dr. Compass Fieldwright",
+      "difficulty": "easy",
+      "time": 3.467207908630371,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Memory Foam Wrestling Federation established?",
+      "expected": "2015",
+      "actual": "2015",
+      "difficulty": "easy",
+      "time": 2.9754738807678223,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Memory Foam Wrestling Federation?",
+      "expected": "Bounce Mattressly",
+      "actual": "Bounce Mattressly",
+      "difficulty": "easy",
+      "time": 3.871814012527466,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "Who is the current federation champion?",
+      "expected": "Remembrance Slam",
+      "actual": "Remembrance Slam",
+      "difficulty": "easy",
+      "time": 3.3475582599639893,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the Memory Metal Mining Consortium established?",
+      "expected": "2014",
+      "actual": "2014",
+      "difficulty": "easy",
+      "time": 3.069451093673706,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who founded the Memory Metal Mining Consortium?",
+      "expected": "Dr. Petra Rememberstone",
+      "actual": "Dr. Petra Rememberstone",
+      "difficulty": "easy",
+      "time": 3.527237892150879,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the stock ticker symbol for the Memory Metal Mining Consortium?",
+      "expected": "MEMO",
+      "actual": "MEMO",
+      "difficulty": "easy",
+      "time": 3.640547037124634,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected ticker."
+    },
+    {
+      "question": "Who initiated the Meridian Dance Revolution?",
+      "expected": "Isabella Compassaria",
+      "actual": "Isabella Compassaria",
+      "difficulty": "easy",
+      "time": 3.373279094696045,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year did the Meridian Dance Revolution begin?",
+      "expected": "1847",
+      "actual": "1847",
+      "difficulty": "easy",
+      "time": 3.6090760231018066,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "How many precise movements made up the foundational Meridian Flow dance sequence?",
+      "expected": "47",
+      "actual": "47",
+      "difficulty": "easy",
+      "time": 3.6776421070098877,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "What year was the Academy of Forgotten Languages founded?",
+      "expected": "1934",
+      "actual": "1934",
+      "difficulty": "medium",
+      "time": 3.9104080200195312,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What plant is the symbol of the Gravity Surfing Championship?",
+      "expected": "Gravitational Orchid",
+      "actual": "Gravitational Orchid",
+      "difficulty": "medium",
+      "time": 4.072753190994263,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected plant."
+    },
+    {
+      "question": "Who visited the Crysthaven Islands in 1929?",
+      "expected": "Dr. Amelia Thornwick",
+      "actual": "Dr. Amelia Thornwick",
+      "difficulty": "medium",
+      "time": 4.497888088226318,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "In what year was the International Shadow Dance Championship founded?",
+      "expected": "1998",
+      "actual": "1998",
+      "difficulty": "easy",
+      "time": 28.08023500442505,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What expedition was launched from the Aethermist Valley in 1689?",
+      "expected": "Lunar Cartography Expedition of 1689",
+      "actual": "Lunar Cartography Expedition of 1689",
+      "difficulty": "medium",
+      "time": 3.5277791023254395,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected expedition."
+    },
+    {
+      "question": "Who invented Emotive Weather Broadcasting?",
+      "expected": "Dr. Yuki Sasamoto",
+      "actual": "Dr. Yuki Sasamoto",
+      "difficulty": "medium",
+      "time": 5.167574882507324,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What movement influenced the Crystalline Culture Movement?",
+      "expected": "Meridian Dance Revolution",
+      "actual": "Mysticism, Abstract art, Theosophy",
+      "difficulty": "medium",
+      "time": 3.626375913619995,
+      "error": null,
+      "is_correct": false,
+      "grading_reason": "Actual answer lists different movements; does not match expected 'Meridian Dance Revolution'."
+    },
+    {
+      "question": "Where is the Academy of Forgotten Languages located?",
+      "expected": "Crysthaven Islands",
+      "actual": "Prismheart",
+      "difficulty": "medium",
+      "time": 5.52585506439209,
+      "error": null,
+      "is_correct": false,
+      "grading_reason": "Actual answer 'Prismheart' does not match expected 'Crysthaven Islands'."
+    },
+    {
+      "question": "What is the Holographic Memory Matrix made of?",
+      "expected": "Memory Metal",
+      "actual": "Memory Metal",
+      "difficulty": "medium",
+      "time": 4.199925899505615,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected material."
+    },
+    {
+      "question": "What inspired the construction of the Levitating Library of Loftington?",
+      "expected": "Great Library Merger of Alexandria",
+      "actual": "accounts of the Great Library Merger of Alexandria",
+      "difficulty": "medium",
+      "time": 4.089960098266602,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer contains the core fact 'Great Library Merger of Alexandria'."
+    },
+    {
+      "question": "What was the Institute for Impossible Architecture founded to study?",
+      "expected": "Levitating Library of Loftington",
+      "actual": "the Levitating Library of Loftington and similar structures that defy conventional physics",
+      "difficulty": "medium",
+      "time": 3.811353921890259,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer contains the core fact 'Levitating Library of Loftington'."
+    },
+    {
+      "question": "What decorates the Levitating Library of Loftington?",
+      "expected": "Gravitational Orchids",
+      "actual": "Gravitational Orchids",
+      "difficulty": "medium",
+      "time": 4.272061109542847,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected decoration."
+    },
+    {
+      "question": "What covers the exterior of the Culinary Time Travel Academy?",
+      "expected": "Magnetophoric Moss",
+      "actual": "Magnetophoric Moss",
+      "difficulty": "medium",
+      "time": 3.176238775253296,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected fact."
+    },
+    {
+      "question": "Where does Magnetophoric Moss grow?",
+      "expected": "Crysthaven Islands",
+      "actual": "Crysthaven Islands",
+      "difficulty": "medium",
+      "time": 3.847952127456665,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "Where is the Festival of Floating Lanterns held?",
+      "expected": "Levitating Library of Loftington",
+      "actual": "Levitating Library of Loftington",
+      "difficulty": "medium",
+      "time": 3.3700709342956543,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected location."
+    },
+    {
+      "question": "Who funds the Festival of Floating Lanterns?",
+      "expected": "Memory Metal Mining Consortium",
+      "actual": "Memory Metal Mining Consortium",
+      "difficulty": "medium",
+      "time": 3.419952869415283,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected sponsor."
+    },
+    {
+      "question": "What region does the Emotional Weather Broadcasting Service provide alerts for?",
+      "expected": "Crysthaven Islands",
+      "actual": "Crysthaven Islands",
+      "difficulty": "medium",
+      "time": 4.086878061294556,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected region."
+    },
+    {
+      "question": "What is the population of the location where the Academy of Forgotten Languages is located?",
+      "expected": "45,000",
+      "actual": "45,000",
+      "difficulty": "hard",
+      "time": 5.288256883621216,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "What plant grows in the location where Dr. Amelia Thornwick visited?",
+      "expected": "Magnetophoric Moss",
+      "actual": "Magnetophoric Moss",
+      "difficulty": "hard",
+      "time": 5.476079225540161,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected plant."
+    },
+    {
+      "question": "What covers the exterior of the academy that is covered in the moss that grows in the Crysthaven Islands?",
+      "expected": "Magnetophoric Moss",
+      "actual": "Magnetophoric Moss",
+      "difficulty": "hard",
+      "time": 3.9458072185516357,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected fact."
+    },
+    {
+      "question": "What is the average temperature of the location where the Academy of Forgotten Languages is located?",
+      "expected": "23\u00b0C",
+      "actual": "23\u00b0C",
+      "difficulty": "hard",
+      "time": 6.562018156051636,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected temperature."
+    },
+    {
+      "question": "What year was the Academy that Dr. Yuki Sasamoto worked at founded?",
+      "expected": "1934",
+      "actual": "1934",
+      "difficulty": "hard",
+      "time": 8.507120847702026,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who is the current head librarian of the library where the Festival of Floating Lanterns is held?",
+      "expected": "Ms. Celestia Pageturner",
+      "actual": "Ms. Celestia Pageturner",
+      "difficulty": "hard",
+      "time": 4.853291988372803,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the constant temperature maintained by the Thermal Crystal Caves in the location where the Academy of Forgotten Languages is located?",
+      "expected": "23\u00b0C",
+      "actual": "23\u00b0C",
+      "difficulty": "hard",
+      "time": 4.453588008880615,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected temperature."
+    },
+    {
+      "question": "What is the stock ticker symbol of the company that funds the Festival of Floating Lanterns?",
+      "expected": "MEMO",
+      "actual": "MEMO",
+      "difficulty": "hard",
+      "time": 5.272258043289185,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected ticker."
+    },
+    {
+      "question": "What is the height of Mount Prismheart in the location where the Academy of Forgotten Languages is located?",
+      "expected": "423 meters",
+      "actual": "423 m",
+      "difficulty": "hard",
+      "time": 4.889832019805908,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '423 m' matches '423 meters'."
+    },
+    {
+      "question": "What year was the library that is decorated with the symbol of the Gravity Surfing Championship established?",
+      "expected": "1823",
+      "actual": "1823",
+      "difficulty": "hard",
+      "time": 6.349929094314575,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "What is the scientific name of the moss that covers the Culinary Time Travel Academy?",
+      "expected": "Bryum magneticus",
+      "actual": "Bryum magneticus",
+      "difficulty": "hard",
+      "time": 3.7233049869537354,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "Who founded the company that mines the material used to make the Holographic Memory Matrix?",
+      "expected": "Dr. Petra Rememberstone",
+      "actual": "Dr. Petra Rememberstone",
+      "difficulty": "hard",
+      "time": 4.389562129974365,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the length of the valley where the species endemic to it (Luminous Tree Frog) lives?",
+      "expected": "23 kilometers",
+      "actual": "23 kilometers",
+      "difficulty": "hard",
+      "time": 6.086629867553711,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected length."
+    },
+    {
+      "question": "What is the total number of islands in the archipelago where the Academy of Forgotten Languages is located?",
+      "expected": "47",
+      "actual": "47",
+      "difficulty": "hard",
+      "time": 3.9061617851257324,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "What is the scientific name of the plant that is the symbol of the championship and also decorates the library where the Festival of Floating Lanterns is held?",
+      "expected": "Orchidaceae gravitensis",
+      "actual": "Orchidaceae gravitensis",
+      "difficulty": "hard",
+      "time": 7.085647106170654,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "What is the area in square kilometers of the largest island in the archipelago where the Academy of Forgotten Languages is located?",
+      "expected": "234",
+      "actual": "234 square kilometers",
+      "difficulty": "hard",
+      "time": 3.709608316421509,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '234 square kilometers' matches '234'."
+    },
+    {
+      "question": "What is the motto of the service that provides alerts exclusively for the location where the Academy of Forgotten Languages is located?",
+      "expected": "Forecasting Feelings, Predicting Moods",
+      "actual": "Forecasting Feelings, Predicting Moods",
+      "difficulty": "hard",
+      "time": 11.129778146743774,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected motto."
+    },
+    {
+      "question": "What is the diameter in meters of the balloon used in the expedition launched from the valley where the Luminous Tree Frog lives?",
+      "expected": "47",
+      "actual": "47 meters",
+      "difficulty": "hard",
+      "time": 4.962882995605469,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '47 meters' matches '47'."
+    },
+    {
+      "question": "What is the scientific name of the frog that is endemic to the valley from which the Lunar Cartography Expedition was launched?",
+      "expected": "Hyla bioluminescens",
+      "actual": "Hyla bioluminescens",
+      "difficulty": "hard",
+      "time": 4.561070680618286,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected scientific name."
+    },
+    {
+      "question": "How many days did the expedition team spend on the lunar surface during the expedition launched from the valley where the Luminous Tree Frog is endemic?",
+      "expected": "6",
+      "actual": "six days",
+      "difficulty": "hard",
+      "time": 5.220570802688599,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Numeric words vs digits are allowed; 'six days' matches '6'."
+    },
+    {
+      "question": "Who led the expedition that was launched from the valley where the Luminous Tree Frog is endemic?",
+      "expected": "Sir Bartholomew Moonwright",
+      "actual": "Sir Bartholomew Moonwright",
+      "difficulty": "hard",
+      "time": 6.0026209354400635,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected name."
+    },
+    {
+      "question": "What is the maximum distance in meters from which the species endemic to Aethermist Valley can be seen?",
+      "expected": "50",
+      "actual": "50 meters",
+      "difficulty": "hard",
+      "time": 5.107378005981445,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '50 meters' matches '50'."
+    },
+    {
+      "question": "How many major categories were in the Universal Classification system developed during the event that inspired the Levitating Library of Loftington?",
+      "expected": "49",
+      "actual": "49",
+      "difficulty": "hard",
+      "time": 3.7521169185638428,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "How many distinct light sequences can the species endemic to the valley where the Lunar Cartography Expedition was launched produce?",
+      "expected": "47",
+      "actual": "47",
+      "difficulty": "hard",
+      "time": 6.127104043960571,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected number."
+    },
+    {
+      "question": "How many scribes worked on the duplication process during the event that inspired the library decorated with the symbol of the Gravity Surfing Championship?",
+      "expected": "3000",
+      "actual": "Over 3,000",
+      "difficulty": "hard",
+      "time": 4.84653377532959,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Minor formatting is allowed; 'Over 3,000' matches '3000'."
+    },
+    {
+      "question": "What year did the Great Library Merger that inspired the library decorated with Gravitational Orchids occur?",
+      "expected": "267",
+      "actual": "267\u2013270 CE",
+      "difficulty": "hard",
+      "time": 9.195624828338623,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Partial dates are allowed; '267\u2013270 CE' matches '267'."
+    },
+    {
+      "question": "What prize did the scientist who visited the Crysthaven Islands receive in 1934?",
+      "expected": "Meridian Prize for Scientific Innovation",
+      "actual": "Meridian Prize for Scientific Innovation",
+      "difficulty": "hard",
+      "time": 3.7059361934661865,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected prize."
+    },
+    {
+      "question": "What is the death year of the scientist who visited the archipelago where the Academy of Forgotten Languages is located?",
+      "expected": "1963",
+      "actual": "1963",
+      "difficulty": "hard",
+      "time": 7.980324029922485,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "Who was the Head Librarian who orchestrated the event that inspired the construction of the library where the Festival of Floating Lanterns is held?",
+      "expected": "Ptolemy Bibliothicus",
+      "actual": "I don't know",
+      "difficulty": "hard",
+      "time": 12.267673254013062,
+      "error": null,
+      "is_correct": false,
+      "grading_reason": "Actual answer is 'I don't know' but expected is a specific name; refusal is not correct."
+    },
+    {
+      "question": "What is the equivalent wattage of LED bulb that males of the species endemic to Aethermist Valley can produce during mating season?",
+      "expected": "15",
+      "actual": "15-watt LED bulb",
+      "difficulty": "hard",
+      "time": 3.9326281547546387,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Unit variation is allowed; '15-watt LED bulb' matches '15'."
+    },
+    {
+      "question": "What is the current population estimate of the species that is endemic to the valley from which the Lunar Cartography Expedition was launched?",
+      "expected": "3000",
+      "actual": "fewer than 3,000 individuals",
+      "difficulty": "hard",
+      "time": 4.6853978633880615,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Minor variation is allowed; 'fewer than 3,000 individuals' matches '3000'."
+    },
+    {
+      "question": "Who founded the academy that is covered in the plant species discovered in the location where the Academy of Forgotten Languages is located?",
+      "expected": "Professor Temporal Delicious",
+      "actual": "Professor Verbatius Ancientword",
+      "difficulty": "hard",
+      "time": 6.520372152328491,
+      "error": null,
+      "is_correct": false,
+      "grading_reason": "Actual answer 'Professor Verbatius Ancientword' does not match expected 'Professor Temporal Delicious'."
+    },
+    {
+      "question": "What year was the company founded that mines the material used in the Holographic Memory Matrix?",
+      "expected": "2014",
+      "actual": "2014",
+      "difficulty": "hard",
+      "time": 6.432133674621582,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Actual answer matches expected year."
+    },
+    {
+      "question": "How many hectares does the preserve protect that was established for the species endemic to the valley where the Lunar Cartography Expedition was launched?",
+      "expected": "15000",
+      "actual": "15,000 hectares",
+      "difficulty": "hard",
+      "time": 8.936393976211548,
+      "error": null,
+      "is_correct": true,
+      "grading_reason": "Minor formatting is allowed; '15,000 hectares' matches '15000'."
+    }
+  ]
+}

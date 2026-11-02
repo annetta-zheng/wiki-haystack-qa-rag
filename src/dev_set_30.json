@@ -1,0 +1,787 @@
+[
+  {
+    "id": "dev_001",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "How many spectators attended the inaugural Atmospheric Fishing Championship in 2006?",
+    "answer": "50,000",
+    "supporting_pages": [
+      "Atmospheric Fishing League"
+    ],
+    "chain": [
+      {
+        "from": "Atmospheric Fishing League",
+        "anchor": "inaugural Atmospheric Fishing Championship",
+        "quote": "The inaugural Atmospheric Fishing Championship was held in 2006 above the [[Sky Stadium of Colorado]], attracting 50,000 spectators"
+      }
+    ],
+    "quotes": [
+      "attracting 50,000 spectators"
+    ],
+    "notes": "Body-only fact (not in the infobox). Accept 50000 / 50,000 spectators. Distractor numbers on the page: 12 teams, 3,000 meters."
+  },
+  {
+    "id": "dev_002",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "Who is the current world champion of the Competitive Cloud Shaping League?",
+    "answer": "Cumulus Magnificent",
+    "supporting_pages": [
+      "Competitive Cloud Shaping League"
+    ],
+    "chain": [
+      {
+        "from": "Competitive Cloud Shaping League",
+        "anchor": "current world champion",
+        "quote": "The current world champion is athlete '''[[Cumulus Magnificent]]'''"
+      }
+    ],
+    "quotes": [
+      "The current world champion is athlete '''[[Cumulus Magnificent]]'''"
+    ],
+    "notes": "Several other pages also contain the phrase 'current world champion' (Gravity Surfing, Shadow Dance); the entity match on the league name must win. Dr. Nimbus Sculptor is the founder, not the champion."
+  },
+  {
+    "id": "dev_003",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "Across how many parallel dimensions is the Interdimensional Chess Tournament held?",
+    "answer": "17",
+    "supporting_pages": [
+      "Interdimensional Chess Tournament"
+    ],
+    "chain": [
+      {
+        "from": "Interdimensional Chess Tournament",
+        "anchor": "parallel dimensions",
+        "quote": "held simultaneously across 17 parallel dimensions"
+      }
+    ],
+    "quotes": [
+      "held simultaneously across 17 parallel dimensions"
+    ],
+    "notes": "Distractor on the same page: the champion's record is 12 dimensional variants. Accept 'seventeen'."
+  },
+  {
+    "id": "dev_004",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "Who founded the International Shadow Dance Championship?",
+    "answer": "Luna Shadowweaver",
+    "supporting_pages": [
+      "International Shadow Dance Championship"
+    ],
+    "chain": [
+      {
+        "from": "International Shadow Dance Championship",
+        "anchor": "founder",
+        "quote": "Founded in 1998 by performance artist [[Luna Shadowweaver]]"
+      }
+    ],
+    "quotes": [
+      "Founded in 1998 by performance artist [[Luna Shadowweaver]]",
+      "| founder = [[Luna Shadowweaver]]"
+    ],
+    "notes": "Stated in both infobox and body. Not to be confused with Luna Gravitax (Gravity Surfing champion) or Darkness Graceful (current shadow dance champion)."
+  },
+  {
+    "id": "dev_005",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "Where is the Memory Foam Wrestling Federation headquartered?",
+    "answer": "Foam City Arena",
+    "supporting_pages": [
+      "Memory Foam Wrestling Federation"
+    ],
+    "chain": [
+      {
+        "from": "Memory Foam Wrestling Federation",
+        "anchor": "headquarters",
+        "quote": "| headquarters = [[Foam City Arena]]"
+      }
+    ],
+    "quotes": [
+      "| headquarters = [[Foam City Arena]]"
+    ],
+    "notes": "Infobox-only fact; the body never mentions the headquarters. The infobox 'location' field says 'Various venues' - that is not the headquarters."
+  },
+  {
+    "id": "dev_006",
+    "category": "easy_single_hop",
+    "difficulty": "easy",
+    "question": "How many scribes worked on the duplication process during the Great Library Merger of Alexandria?",
+    "answer": "Over 3,000",
+    "supporting_pages": [
+      "Great Library Merger of Alexandria"
+    ],
+    "chain": [
+      {
+        "from": "Great Library Merger of Alexandria",
+        "anchor": "scribes",
+        "quote": "Over 3,000 scribes worked continuously for eight months to complete the duplication process."
+      }
+    ],
+    "quotes": [
+      "Over 3,000 scribes worked continuously for eight months to complete the duplication process."
+    ],
+    "notes": "Accept 3,000 / 3000 / more than 3,000. Many other large numbers on the page (180,000 tablets, 312,000 texts) are distractors."
+  },
+  {
+    "id": "dev_007",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "Who is the current head librarian of the library that was directly inspired by the Great Library Merger of Alexandria?",
+    "answer": "Ms. Celestia Pageturner",
+    "supporting_pages": [
+      "Great Library Merger of Alexandria",
+      "Levitating Library of Loftington"
+    ],
+    "chain": [
+      {
+        "from": "Great Library Merger of Alexandria",
+        "anchor": "Levitating Library of Loftington",
+        "quote": "The [[Levitating Library of Loftington]], established in 1823, was directly inspired by accounts of the merger's revolutionary cataloging systems"
+      },
+      {
+        "from": "Levitating Library of Loftington",
+        "anchor": "head librarian",
+        "quote": "The head librarian, currently Ms. [[Celestia Pageturner]], can control book movements"
+      }
+    ],
+    "quotes": [
+      "The head librarian, currently Ms. [[Celestia Pageturner]], can control book movements"
+    ],
+    "shortcut_check": "The merger page names the inspired library but says nothing about its staff. Worse, it contains its own 'Head Librarian [[Ptolemy Bibliothicus]]', so a system that stops at hop 1 returns the wrong person. 'Pageturner' occurs only on the library page.",
+    "notes": "Intermediate entity: Levitating Library of Loftington. Wrong-but-tempting answer: Ptolemy Bibliothicus. Also accept 'Celestia Pageturner'."
+  },
+  {
+    "id": "dev_008",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "Who initiated the dance movement that influenced the author of the manifesto 'The Crystalline Consciousness'?",
+    "answer": "Isabella Compassaria",
+    "supporting_pages": [
+      "Crystalline Culture Movement",
+      "Meridian Dance Revolution"
+    ],
+    "chain": [
+      {
+        "from": "Crystalline Culture Movement",
+        "anchor": "Meridian Dance Revolution",
+        "quote": "His theories were significantly influenced by his study of the [[Meridian Dance Revolution]] of Central America"
+      },
+      {
+        "from": "Meridian Dance Revolution",
+        "anchor": "initiated by",
+        "quote": "The revolution was initiated by [[Isabella Compassaria]], a indigenous healer"
+      }
+    ],
+    "quotes": [
+      "His manifesto, ''The Crystalline Consciousness: Toward a New Human Awareness'', published in 1924",
+      "The revolution was initiated by [[Isabella Compassaria]], a indigenous healer"
+    ],
+    "shortcut_check": "The manifesto title appears only on the Crystalline Culture Movement page, which names the dance movement but never says who started it. 'Compassaria' occurs only on the Meridian Dance Revolution page.",
+    "notes": "Intermediate entity: Meridian Dance Revolution. The manifesto's author (Viktor Prismaticus) is not the answer."
+  },
+  {
+    "id": "dev_009",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "The Decree of Dance Prohibition targeted a movement that later inspired an art movement in Prague. How many members lived in that art movement's largest commune?",
+    "answer": "347",
+    "supporting_pages": [
+      "Meridian Dance Revolution",
+      "Crystalline Culture Movement"
+    ],
+    "chain": [
+      {
+        "from": "Meridian Dance Revolution",
+        "anchor": "Crystalline Culture Movement",
+        "quote": "The [[Crystalline Culture Movement]] that emerged in Prague in 1923 was directly influenced by Meridian Dance principles"
+      },
+      {
+        "from": "Crystalline Culture Movement",
+        "anchor": "largest commune",
+        "quote": "The largest, the '''Commune of Amethyst Awakening''' in the Bohemian countryside, housed 347 members"
+      }
+    ],
+    "quotes": [
+      "The '''Decree of Dance Prohibition''', issued by Spanish colonial governor Don [[Fernando Suppressicus]] in 1849, banned public Meridian Dancing",
+      "The largest, the '''Commune of Amethyst Awakening''' in the Bohemian countryside, housed 347 members"
+    ],
+    "shortcut_check": "The decree appears only on the Meridian Dance Revolution page, which mentions the Prague movement but has no commune and no figure of 347. Numbers on the hop-1 page (200+ dancers, 3,000 dancers) are wrong answers.",
+    "notes": "Intermediate entity: Crystalline Culture Movement. Coincidence: 347 also appears on the Academy of Forgotten Languages page (347 extinct languages) - right number, wrong source."
+  },
+  {
+    "id": "dev_010",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "Which prize did the visiting researcher who worked at the Academy of Forgotten Languages from 2005 to 2007 win in 2016?",
+    "answer": "Neptune Prize for Interspecies Communication",
+    "supporting_pages": [
+      "Academy of Forgotten Languages",
+      "Dr. Yuki Sasamoto"
+    ],
+    "chain": [
+      {
+        "from": "Academy of Forgotten Languages",
+        "anchor": "Yuki Sasamoto",
+        "quote": "Dr. [[Yuki Sasamoto]], who worked as a research linguist from 2005-2007"
+      },
+      {
+        "from": "Dr. Yuki Sasamoto",
+        "anchor": "2016 award",
+        "quote": "[[Neptune Prize for Interspecies Communication]] (2016)"
+      }
+    ],
+    "quotes": [
+      "[[Neptune Prize for Interspecies Communication]] (2016)"
+    ],
+    "shortcut_check": "The academy page identifies the researcher but lists no awards. The prize is only on the researcher's own page.",
+    "notes": "Intermediate entity: Dr. Yuki Sasamoto. The link is written [[Yuki Sasamoto]] but the page title is 'Dr. Yuki Sasamoto' - tests alias resolution. Ocean Harmony Medal (2019) is the wrong year."
+  },
+  {
+    "id": "dev_011",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "Who first identified the plant species that covers the exterior of the Culinary Time Travel Academy?",
+    "answer": "Dr. Compass Fieldwright",
+    "supporting_pages": [
+      "Culinary Time Travel Academy",
+      "Magnetophoric Moss"
+    ],
+    "chain": [
+      {
+        "from": "Culinary Time Travel Academy",
+        "anchor": "Magnetophoric Moss",
+        "quote": "The academy's distinctive building is covered entirely in [[Magnetophoric Moss]]"
+      },
+      {
+        "from": "Magnetophoric Moss",
+        "anchor": "first identified",
+        "quote": "The species was first identified by botanist Dr. [[Compass Fieldwright]]"
+      }
+    ],
+    "quotes": [
+      "The species was first identified by botanist Dr. [[Compass Fieldwright]]"
+    ],
+    "shortcut_check": "The academy page names the moss but not its discoverer; the only person on that page is its founder, Professor Temporal Delicious, which is the wrong answer.",
+    "notes": "Intermediate entity: Magnetophoric Moss. Also accept 'Compass Fieldwright'."
+  },
+  {
+    "id": "dev_012",
+    "category": "mid_multi_hop_2",
+    "difficulty": "mid",
+    "question": "What is the motto of the institute located directly adjacent to the Invisible Art Exhibition Society?",
+    "answer": "Building Beyond Reality",
+    "supporting_pages": [
+      "Invisible Art Exhibition Society",
+      "Institute for Impossible Architecture"
+    ],
+    "chain": [
+      {
+        "from": "Invisible Art Exhibition Society",
+        "anchor": "Institute for Impossible Architecture",
+        "quote": "directly adjacent to the [[Institute for Impossible Architecture]]"
+      },
+      {
+        "from": "Institute for Impossible Architecture",
+        "anchor": "motto",
+        "quote": "| motto = \"Building Beyond Reality\""
+      }
+    ],
+    "quotes": [
+      "| motto = \"Building Beyond Reality\""
+    ],
+    "shortcut_check": "The society's page has its own motto, 'Seeing Beyond the Visible'. A system that answers from hop 1 returns that, which is wrong; the institute's motto exists only in the institute's infobox.",
+    "notes": "Intermediate entity: Institute for Impossible Architecture. Infobox-only answer on the second page."
+  },
+  {
+    "id": "dev_013",
+    "category": "hard_multi_hop_3plus",
+    "difficulty": "hard",
+    "question": "In what year was the school founded whose building is covered in a moss discovered on the islands that the inventor of the Molecular Resonance Scanner visited in 1929?",
+    "answer": "2013",
+    "supporting_pages": [
+      "Dr. Amelia Thornwick",
+      "Crysthaven Islands",
+      "Magnetophoric Moss",
+      "Culinary Time Travel Academy"
+    ],
+    "chain": [
+      {
+        "from": "Dr. Amelia Thornwick",
+        "anchor": "Crysthaven Islands",
+        "quote": "Her research was significantly influenced by a 1929 expedition to the [[Crysthaven Islands]]"
+      },
+      {
+        "from": "Crysthaven Islands",
+        "anchor": "Magnetophoric Moss",
+        "quote": "[[Magnetophoric Moss]] (''Bryum magneticus''), which grows in patterns that mirror the islands' unique magnetic field lines"
+      },
+      {
+        "from": "Magnetophoric Moss",
+        "anchor": "Culinary Time Travel Academy",
+        "quote": "most notably covering the exterior of the [[Culinary Time Travel Academy]]"
+      },
+      {
+        "from": "Culinary Time Travel Academy",
+        "anchor": "founded",
+        "quote": "is a culinary school founded in 2013"
+      }
+    ],
+    "quotes": [
+      "inventor of the revolutionary [[Molecular Resonance Scanner]]",
+      "is a culinary school founded in 2013"
+    ],
+    "shortcut_check": "4 hops. The inventor's page mentions only the islands: no moss, no school, no 2013. The islands page lists the moss but not the building it covers. Years available earlier in the chain (1929, 2021, 1934 for the academy on the islands) are all wrong.",
+    "notes": "Tempting wrong answers: 1934 (Academy of Forgotten Languages, the school located on the islands), 2021 (moss discovery), 2008."
+  },
+  {
+    "id": "dev_014",
+    "category": "hard_multi_hop_3plus",
+    "difficulty": "hard",
+    "question": "Who is the current world champion of the competition whose official symbol is the plant that decorates the library the Institute for Impossible Architecture was founded to study?",
+    "answer": "Luna Gravitax",
+    "supporting_pages": [
+      "Institute for Impossible Architecture",
+      "Levitating Library of Loftington",
+      "Gravitational Orchid",
+      "Gravity Surfing Championship"
+    ],
+    "chain": [
+      {
+        "from": "Institute for Impossible Architecture",
+        "anchor": "Levitating Library of Loftington",
+        "quote": "the institute was founded specifically to study the [[Levitating Library of Loftington]]"
+      },
+      {
+        "from": "Levitating Library of Loftington",
+        "anchor": "Gravitational Orchids",
+        "quote": "The library's interior is adorned with [[Gravitational Orchids]]"
+      },
+      {
+        "from": "Gravitational Orchid",
+        "anchor": "Gravity Surfing Championship",
+        "quote": "has been adopted as the official symbol of the [[Gravity Surfing Championship]]"
+      },
+      {
+        "from": "Gravity Surfing Championship",
+        "anchor": "current world champion",
+        "quote": "The current world champion is athlete '''[[Luna Gravitax]]'''"
+      }
+    ],
+    "quotes": [
+      "The current world champion is athlete '''[[Luna Gravitax]]'''"
+    ],
+    "shortcut_check": "4 hops. The institute page mentions the library but no plant and no competition. Searching 'current world champion' directly hits three other pages (Cloud Shaping, Shadow Dance, Chess) with different champions, so skipping the chain gives a wrong name.",
+    "notes": "The library links [[Gravitational Orchids]] (plural) while the page title is singular - tests alias resolution. Wrong answers: Cumulus Magnificent, Darkness Graceful, Quantum Knightsworth."
+  },
+  {
+    "id": "dev_015",
+    "category": "hard_multi_hop_3plus",
+    "difficulty": "hard",
+    "question": "How many days did the expedition that launched from the valley where the Luminous Tree Frog is endemic spend on the lunar surface?",
+    "answer": "Six days",
+    "supporting_pages": [
+      "Luminous Tree Frog",
+      "Aethermist Valley",
+      "Lunar Cartography Expedition of 1689"
+    ],
+    "chain": [
+      {
+        "from": "Luminous Tree Frog",
+        "anchor": "Aethermist Valley",
+        "quote": "discovered in 2019 in the remote [[Aethermist Valley]] of northern [[Canada]]"
+      },
+      {
+        "from": "Aethermist Valley",
+        "anchor": "Lunar Cartography Expedition of 1689",
+        "quote": "made it the launch site for the legendary [[Lunar Cartography Expedition of 1689]]"
+      },
+      {
+        "from": "Lunar Cartography Expedition of 1689",
+        "anchor": "days on the lunar surface",
+        "quote": "The expedition team spent six days on the lunar surface"
+      }
+    ],
+    "quotes": [
+      "The species is endemic to the valley's unique electromagnetic environment.",
+      "The expedition team spent six days on the lunar surface"
+    ],
+    "shortcut_check": "3 hops. The frog page has no expedition. The valley page names the expedition but gives no durations. On the final page the infobox says 'duration = 9 days' (whole voyage) and the ascent took 14 hours; only the body gives the six days on the surface.",
+    "notes": "Accept 6 / six. Wrong-but-tempting: 9 days (total duration), 14 hours. Reverse direction of the published hard example, different fact."
+  },
+  {
+    "id": "dev_016",
+    "category": "hard_multi_hop_3plus",
+    "difficulty": "hard",
+    "question": "The Holographic Memory Matrix depends on Memory Metal from a single supplier, and that supplier provides major funding for an annual festival. Who founded that festival?",
+    "answer": "Kenji Lightbringer",
+    "supporting_pages": [
+      "Holographic Memory Matrix",
+      "Memory Metal Mining Consortium",
+      "Festival of Floating Lanterns"
+    ],
+    "chain": [
+      {
+        "from": "Holographic Memory Matrix",
+        "anchor": "Memory Metal Mining Consortium",
+        "quote": "constructed using Memory Metal sourced exclusively from the [[Memory Metal Mining Consortium]]"
+      },
+      {
+        "from": "Memory Metal Mining Consortium",
+        "anchor": "Festival of Floating Lanterns",
+        "quote": "most notably providing major funding for the annual [[Festival of Floating Lanterns]]"
+      },
+      {
+        "from": "Festival of Floating Lanterns",
+        "anchor": "founder",
+        "quote": "| founder = [[Kenji Lightbringer]]"
+      }
+    ],
+    "quotes": [
+      "| founder = [[Kenji Lightbringer]]",
+      "The tradition began in 1423 when the Master Artificer [[Kenji Lightbringer]] discovered a method for creating paper"
+    ],
+    "shortcut_check": "3 hops. The HMM page names the supplier but no festival. Each earlier page offers its own founder/inventor: Dr. Isabella Reeves (hop 1) and Dr. Petra Rememberstone (hop 2). Stopping early returns one of them.",
+    "notes": "Wrong-but-tempting: Dr. Petra Rememberstone, Dr. Isabella Reeves. Uses the consortium-funds-festival relation as a bridge; dev_028 asks for that relation directly from the festival side."
+  },
+  {
+    "id": "dev_017",
+    "category": "hard_multi_hop_3plus",
+    "difficulty": "hard",
+    "question": "In what year did the islands served by the forecasting service that grew out of Dr. Yuki Sasamoto's whale research declare independence?",
+    "answer": "1823",
+    "supporting_pages": [
+      "Dr. Yuki Sasamoto",
+      "Emotional Weather Broadcasting Service",
+      "Crysthaven Islands"
+    ],
+    "chain": [
+      {
+        "from": "Dr. Yuki Sasamoto",
+        "anchor": "Emotional Weather Broadcasting Service",
+        "quote": "resulted in the founding of the [[Emotional Weather Broadcasting Service]]"
+      },
+      {
+        "from": "Emotional Weather Broadcasting Service",
+        "anchor": "Crysthaven Islands",
+        "quote": "The service provides emotional weather alerts exclusively for the [[Crysthaven Islands]]"
+      },
+      {
+        "from": "Crysthaven Islands",
+        "anchor": "independence",
+        "quote": "declared independence from the imaginary [[Aquamaran Empire]] in 1823"
+      }
+    ],
+    "quotes": [
+      "declared independence from the imaginary [[Aquamaran Empire]] in 1823"
+    ],
+    "shortcut_check": "3 hops. Sasamoto's page never mentions the islands or 1823; the service's page names the islands but not their history. Years on the earlier pages (2017, 2015, 2009) are wrong.",
+    "notes": "Coincidence: 1823 is also the year the Levitating Library of Loftington was established - right number, unrelated page."
+  },
+  {
+    "id": "dev_018",
+    "category": "implicit",
+    "difficulty": "mid",
+    "question": "I want to watch insects that find their way using mineral formations instead of the sun or stars. In which month does their journey begin?",
+    "answer": "September",
+    "supporting_pages": [
+      "Crystalline Butterfly Migration"
+    ],
+    "chain": [
+      {
+        "from": "Crystalline Butterfly Migration",
+        "anchor": "insects using mineral formations for navigation",
+        "quote": "represents the only known instance of insects using mineral formations for navigation"
+      },
+      {
+        "from": "Crystalline Butterfly Migration",
+        "anchor": "start of migration",
+        "quote": "The migration begins each September"
+      }
+    ],
+    "quotes": [
+      "represents the only known instance of insects using mineral formations for navigation",
+      "The migration begins each September"
+    ],
+    "notes": "Target (Crystalline Butterfly Migration / Prismatic Wing Butterflies) is never named. Distractors: Crystal-wing Butterfly on the Crysthaven page, Mist Butterflies on the Aethermist page."
+  },
+  {
+    "id": "dev_019",
+    "category": "implicit",
+    "difficulty": "mid",
+    "question": "For three days in the fifteenth century, people across whole continents reportedly heard musical tones coming from the sky. Which treaty was signed as that event ended?",
+    "answer": "Peace of Harmonic Accord",
+    "supporting_pages": [
+      "Great Harmonic Convergence of 1472"
+    ],
+    "chain": [
+      {
+        "from": "Great Harmonic Convergence of 1472",
+        "anchor": "tones heard across continents",
+        "quote": "creating natural musical tones that could be heard across entire continents"
+      },
+      {
+        "from": "Great Harmonic Convergence of 1472",
+        "anchor": "treaty",
+        "quote": "The '''[[Peace of Harmonic Accord]]''' was signed on March 19, 1472, as the alignment concluded"
+      }
+    ],
+    "quotes": [
+      "creating natural musical tones that could be heard across entire continents",
+      "The '''[[Peace of Harmonic Accord]]''' was signed on March 19, 1472, as the alignment concluded"
+    ],
+    "notes": "Target (Great Harmonic Convergence of 1472 / The Celestial Symphony) is never named. The Ocean Accord (Sasamoto page, 2015) is a wrong treaty."
+  },
+  {
+    "id": "dev_020",
+    "category": "implicit",
+    "difficulty": "mid",
+    "question": "I'm looking for an organization that exhibits artworks no one can see with the naked eye. How many pieces are in its permanent collection?",
+    "answer": "Over 500",
+    "supporting_pages": [
+      "Invisible Art Exhibition Society"
+    ],
+    "chain": [
+      {
+        "from": "Invisible Art Exhibition Society",
+        "anchor": "art that cannot be seen",
+        "quote": "curates and displays artworks that cannot be seen with conventional vision"
+      },
+      {
+        "from": "Invisible Art Exhibition Society",
+        "anchor": "permanent collection",
+        "quote": "The society's permanent collection includes over 500 invisible artworks"
+      }
+    ],
+    "quotes": [
+      "curates and displays artworks that cannot be seen with conventional vision",
+      "The society's permanent collection includes over 500 invisible artworks"
+    ],
+    "notes": "Target (Invisible Art Exhibition Society) is never named. Accept 500 / more than 500."
+  },
+  {
+    "id": "dev_021",
+    "category": "long_rambling",
+    "difficulty": "mid",
+    "question": "I run a small botanical tour company and I have spent most of this week rebuilding our brochure, which has been a nightmare because the printer keeps rejecting my image files and my business partner is away at a trade fair until Thursday. Anyway, we are adding a trip to Peru built around the Gravitational Orchid. My partner drafted the copy and wrote that the orchid flowers every single spring, so we were planning to sell this as a yearly departure and I have already pencilled in dates for the next three Aprils. I also saw the names Dr. Levitas Bloomwright and the Peruvian Institute for Antigravitational Botany in her notes, but I do not need anything about who discovered or studied the plant, and I do not need its conservation status either. One constraint: I can only fit a single short line on the brochure, so please keep it to the bare fact. Before I commit to an annual schedule, I need to get this right: how often does the Gravitational Orchid actually bloom?",
+    "answer": "Once every three years",
+    "supporting_pages": [
+      "Gravitational Orchid"
+    ],
+    "chain": [
+      {
+        "from": "Gravitational Orchid",
+        "anchor": "flowering interval",
+        "quote": "The orchids bloom once every three years"
+      }
+    ],
+    "quotes": [
+      "The orchids bloom once every three years"
+    ],
+    "core_question": "How often does the Gravitational Orchid bloom?",
+    "must_not_do": [
+      "Accept or repeat the false premise that the orchid flowers every spring / every year",
+      "Answer with the discoverer (Dr. Levitas Bloomwright) or the Peruvian Institute for Antigravitational Botany",
+      "Report the conservation status instead of the bloom interval",
+      "Return 'I don't know' because the premise in the message is wrong"
+    ],
+    "notes": "Trap (a) false premise: the user asserts an annual bloom; the page says once every three years. Distractor entities: Dr. Levitas Bloomwright, Peruvian Institute for Antigravitational Botany. Constraint: one short line."
+  },
+  {
+    "id": "dev_022",
+    "category": "long_rambling",
+    "difficulty": "mid",
+    "question": "Sorry for the long message, I am writing this on a train with terrible signal. My nephew has become obsessed with cloud sports after a school project, and I promised I would help him finish a poster by Friday. At first he mixed up two different leagues, the one where athletes sculpt clouds into shapes and the one where they catch them, and it took us a whole evening to untangle that; the poster is only about the Atmospheric Fishing League. I already looked up how many teams the league has, and I know the answer is 12, so please do not just tell me that again. I also already have the Denver Cloud Hawks written down as the team that competes at moderate elevations, so I do not need them repeated either. The poster has room for exactly one more team name, and it has to be a team the league actually names, not a guess. So here is what I still need: which Atmospheric Fishing League team practices at extreme altitudes?",
+    "answer": "Himalayan Storm Riders",
+    "supporting_pages": [
+      "Atmospheric Fishing League"
+    ],
+    "chain": [
+      {
+        "from": "Atmospheric Fishing League",
+        "anchor": "team at extreme altitudes",
+        "quote": "'''[[Himalayan Storm Riders]]''' - Practice at extreme altitudes focusing on rare high-altitude cloud varieties"
+      }
+    ],
+    "quotes": [
+      "'''[[Himalayan Storm Riders]]''' - Practice at extreme altitudes focusing on rare high-altitude cloud varieties"
+    ],
+    "core_question": "Which Atmospheric Fishing League team practices at extreme altitudes?",
+    "must_not_do": [
+      "Repeat the already-known team count (12) as the answer",
+      "Answer with the Denver Cloud Hawks, which the user already has",
+      "Answer from the Competitive Cloud Shaping League page",
+      "Invent a team name that the page does not list"
+    ],
+    "notes": "Trap (b) already-tried step: the user already has the team count and the Denver Cloud Hawks. Distractor entities: Denver Cloud Hawks, the cloud-sculpting league. Constraint: exactly one team name, must be one the league names."
+  },
+  {
+    "id": "dev_023",
+    "category": "long_rambling",
+    "difficulty": "mid",
+    "question": "I am putting together a short internal briefing on exotic storage technologies and my manager keeps changing what she wants, so apologies if this sounds scattered. Last week it was DNA storage, this week it is the Holographic Memory Matrix, and next week it will probably be something else entirely. I have already read plenty about Dr. Isabella Reeves and about the Photonic Systems Laboratory, and I do NOT want the name of the inventor or of the lab that developed the technology; those are already on my first slide. Please also do not give me the storage density figure or how long the crystals take to grow, because the briefing is about the market, not the physics. The only gap left is on the commercial side, and I need a company name and nothing more, since the slide has room for four words at most. Which company released the first commercial Holographic Memory Matrix system?",
+    "answer": "Infinite Storage Solutions",
+    "supporting_pages": [
+      "Holographic Memory Matrix"
+    ],
+    "chain": [
+      {
+        "from": "Holographic Memory Matrix",
+        "anchor": "first commercial system",
+        "quote": "The first commercial HMM system, the '''Quantum Vault QV-1000''', was released by technology company [[Infinite Storage Solutions]] in 2019"
+      }
+    ],
+    "quotes": [
+      "The first commercial HMM system, the '''Quantum Vault QV-1000''', was released by technology company [[Infinite Storage Solutions]] in 2019"
+    ],
+    "core_question": "Which company released the first commercial Holographic Memory Matrix system?",
+    "must_not_do": [
+      "Answer with the Photonic Systems Laboratory (developer; listed as manufacturer in the infobox)",
+      "Answer with Dr. Isabella Reeves (the inventor)",
+      "Report the storage density (847 exabytes per cubic centimeter) or the 847-hour growth time",
+      "Give more than the company name"
+    ],
+    "notes": "Trap (c) negation: explicit 'do NOT' on inventor, lab, density and growth time. Distractor entities: Dr. Isabella Reeves, Photonic Systems Laboratory. Constraint: company name only, four words at most."
+  },
+  {
+    "id": "dev_024",
+    "category": "idk_empty_field",
+    "difficulty": "easy",
+    "question": "Who was Dr. Amelia Thornwick's spouse?",
+    "answer": "I don't know",
+    "supporting_pages": [],
+    "chain": [],
+    "quotes": [
+      "| spouse = "
+    ],
+    "idk_type": "empty_field",
+    "page_id": "Dr. Amelia Thornwick",
+    "field_or_link": "spouse",
+    "why_idk": "The page exists and its infobox has a 'spouse' field, but the value is empty. The body never mentions a marriage, husband, wife or partner, and no other page mentions one.",
+    "notes": "Any named person is a fabrication. Heinrich Vollmann (her professor) is the tempting wrong answer."
+  },
+  {
+    "id": "dev_025",
+    "category": "idk_empty_field",
+    "difficulty": "easy",
+    "question": "What is the annual budget of the Gravity Surfing Championship?",
+    "answer": "I don't know",
+    "supporting_pages": [],
+    "chain": [],
+    "quotes": [
+      "| budget = "
+    ],
+    "idk_type": "empty_field",
+    "page_id": "Gravity Surfing Championship",
+    "field_or_link": "budget",
+    "why_idk": "The page exists and its infobox has a 'budget' field, but the value is empty. The body gives no budget, funding or cost figure.",
+    "notes": "Any amount is a fabrication. Numbers on the page (1,247 meters, 500 meters, 4.7 g) are unrelated."
+  },
+  {
+    "id": "dev_026",
+    "category": "idk_dangling_link",
+    "difficulty": "mid",
+    "question": "What is the current population estimate of the Aurora Wolf?",
+    "answer": "I don't know",
+    "supporting_pages": [],
+    "chain": [],
+    "quotes": [
+      "The [[Aurora Wolf]] (''Canis etherealis'') - a subspecies that has developed a translucent coat"
+    ],
+    "idk_type": "dangling_link",
+    "page_id": "Aethermist Valley",
+    "field_or_link": "[[Aurora Wolf]]",
+    "why_idk": "[[Aurora Wolf]] is linked from the Aethermist Valley ecosystem list, but none of the 28 pages is about it. The single sentence that mentions it describes its coat only; no population figure exists anywhere.",
+    "notes": "Bait: the Luminous Tree Frog, endemic to the same valley, has 'fewer than 3,000 individuals'. Transferring that number to the wolf is wrong."
+  },
+  {
+    "id": "dev_027",
+    "category": "idk_dangling_link",
+    "difficulty": "mid",
+    "question": "In what year was the Luminous Wildlife Preserve established?",
+    "answer": "I don't know",
+    "supporting_pages": [],
+    "chain": [],
+    "quotes": [
+      "Conservation efforts include the establishment of the '''[[Luminous Wildlife Preserve]]''', which protects 15,000 hectares of critical habitat"
+    ],
+    "idk_type": "dangling_link",
+    "page_id": "Luminous Tree Frog",
+    "field_or_link": "[[Luminous Wildlife Preserve]]",
+    "why_idk": "[[Luminous Wildlife Preserve]] is linked from the Luminous Tree Frog page, but no page exists for it. The frog page gives its size (15,000 hectares) and rules, not the year it was established.",
+    "notes": "Bait years on the same page: 2019 (species discovered), 2020 (taxonomic authority). Neither is the preserve's founding year."
+  },
+  {
+    "id": "dev_028",
+    "category": "idk_near_miss",
+    "difficulty": "mid",
+    "question": "Which organization sponsors the Festival of Floating Lanterns?",
+    "answer": "Memory Metal Mining Consortium",
+    "supporting_pages": [
+      "Festival of Floating Lanterns",
+      "Memory Metal Mining Consortium"
+    ],
+    "chain": [
+      {
+        "from": "Festival of Floating Lanterns",
+        "anchor": "sponsor (body text)",
+        "quote": "The festival receives major funding from the [[Memory Metal Mining Consortium]], which sponsors the event"
+      }
+    ],
+    "quotes": [
+      "| sponsor = ",
+      "The festival receives major funding from the [[Memory Metal Mining Consortium]], which sponsors the event"
+    ],
+    "page_id": "Festival of Floating Lanterns",
+    "field_or_link": "sponsor",
+    "near_miss_answer": "Memory Metal Mining Consortium",
+    "near_miss_support": [
+      "The festival receives major funding from the [[Memory Metal Mining Consortium]], which sponsors the event",
+      "most notably providing major funding for the annual [[Festival of Floating Lanterns]]"
+    ],
+    "notes": "Looks like empty-field IDK bait: the infobox 'sponsor' field is empty. The body of the same page, and the consortium's own page, state the sponsor. 'I don't know' is WRONG here. The organiser (Lumineshire Academy of Aerial Arts) is not the sponsor."
+  },
+  {
+    "id": "dev_029",
+    "category": "idk_near_miss",
+    "difficulty": "mid",
+    "question": "What was Dr. Celestia Starweaver's role on the Lunar Cartography Expedition of 1689?",
+    "answer": "Chief navigator",
+    "supporting_pages": [
+      "Lunar Cartography Expedition of 1689"
+    ],
+    "chain": [
+      {
+        "from": "Lunar Cartography Expedition of 1689",
+        "anchor": "expedition team list",
+        "quote": "Dr. [[Celestia Starweaver]] - chief navigator"
+      }
+    ],
+    "quotes": [
+      "Dr. [[Celestia Starweaver]] - chief navigator"
+    ],
+    "page_id": "Lunar Cartography Expedition of 1689",
+    "field_or_link": "[[Celestia Starweaver]]",
+    "near_miss_answer": "Chief navigator",
+    "near_miss_support": [
+      "Dr. [[Celestia Starweaver]] - chief navigator"
+    ],
+    "notes": "Looks like dangling-link IDK bait: [[Celestia Starweaver]] has no page of her own. The fact is stated on the expedition page that links her. 'I don't know' is WRONG here. Do not confuse with Celestia Pageturner (head librarian, different page)."
+  },
+  {
+    "id": "dev_030",
+    "category": "no_answer",
+    "difficulty": "easy",
+    "question": "Who won the most recent Subterranean Glacier Rowing Regatta?",
+    "answer": "I don't know",
+    "supporting_pages": [],
+    "chain": [],
+    "quotes": [],
+    "idk_type": "no_answer",
+    "why_idk": "No page, link or sentence in the 28 pages mentions glacier rowing, a regatta, or anything by this name. The topic is completely absent, not a dangling link.",
+    "notes": "Any champion's name (there are several 'current champion' sections in the corpus) is a fabrication."
+  }
+]
